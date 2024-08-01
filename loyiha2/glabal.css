@@ -1,0 +1,42 @@
+.header {
+    background-color: #FFDCD1;
+}
+
+
+.container {
+    max-width: 1046px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.flex {
+    display: flex;
+}
+
+.between {
+    justify-content: space-between;
+}
+
+.item-centr {
+    align-items: center;
+}
+
+.btn {
+    color: #fff;
+    background: #23A6F0;
+    width: Hug (137px)px;
+    height: Hug (52px)px;
+    padding: 15px 25px 15px 25px;
+    border-radius: 5px 5px 5px 5px;
+}
+
+.btn__large {
+    width: Hug (162px)px;
+    height: Hug (52px)px;
+    padding: 15px 40px 15px 40px;
+    border-radius: 5px 5px 5px 5px;
+    color: #23A6F0;
+    background-color: #FFDCD1 ;
+}
